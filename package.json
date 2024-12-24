@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/hanadrysdale/expense-reconciliation/issues"
   },
-  "homepage": "https://github.com/hanadrysdale/expense-reconciliation#readme"
+  "homepage": "https://github.com/hanadrysdale/expense-reconciliation#readme",
+  "dependencies": {
+    "xlsx": "^0.18.5"
+  }
 }

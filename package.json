@@ -1,0 +1,19 @@
+{
+  "name": "expense-reconciliation",
+  "version": "1.0.0",
+  "description": "Tool to help reconcile Bain expenses and reimbursements",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hanadrysdale/expense-reconciliation.git"
+  },
+  "author": "Hana Drysdale",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hanadrysdale/expense-reconciliation/issues"
+  },
+  "homepage": "https://github.com/hanadrysdale/expense-reconciliation#readme"
+}
